@@ -6,12 +6,10 @@
 ####Autores
 <br />
 - **Braian Montoro
-<br />
 	-https://github.com/BraianMontoro/
 <br />
 - **Matheus Cardoso
-<br />
-	-**Adicionar aqui o link do seu GitHub
+	-[Adicionar aqui o link do seu GitHub]
 <br />
 <br />
 ## That's All Folks
