@@ -2,7 +2,7 @@
 
 Repositório para meu primeiro desafio que abrange as técnicas de colaboração e markdown no GitHub
 
-##Autores ❤️
+## Autores ❤️
 
 - **Braian Montoro** <br />
 - **[Perfil GitHub] https://github.com/BraianMontoro/**
