@@ -6,8 +6,9 @@ Repositório para meu primeiro desafio que abrange as técnicas de colaboração
 
 - **Braian Montoro** <br />
 	- **[Perfil GitHub] https://github.com/BraianMontoro/**
+	
 - **Matheus Cardoso** <br />
-	- **[Perfil GitHub]**
+	- **[Perfil GitHub] https://github.com/cardosoliveira/**
 	
 ## That's All Folks 🎉
 **[Link para o vídeo That's All Folks.] https://www.youtube.com/watch?v=b9434BoGkNQ&ab_channel=JinketsuVII**
